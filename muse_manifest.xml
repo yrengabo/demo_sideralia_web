@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sideralia.com" resolutions="1x" timestamp="1541749650178">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sideralia.com" resolutions="1x" timestamp="1541750656230">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="113314456" ref="index"/>
@@ -7,13 +7,13 @@
     <file name="nomq_index.css" crc="341779557" ref="index"/>
     <file name="nosotros.css" crc="3970659337" ref="nosotros"/>
     <file name="nomq_nosotros.css" crc="228622944" ref="nosotros"/>
-    <file name="el-salar-de-uyuni.css" crc="4023054624" ref="el-salar-de-uyuni"/>
-    <file name="nomq_el-salar-de-uyuni.css" crc="4269972411" ref="el-salar-de-uyuni"/>
+    <file name="el-salar-de-uyuni.css" crc="473979937" ref="el-salar-de-uyuni"/>
+    <file name="nomq_el-salar-de-uyuni.css" crc="4151173983" ref="el-salar-de-uyuni"/>
     <file name="master_pagina-maestra1.css" crc="384578320" ref="nosotros"/>
     <file name="nomq_preview_master_pagina-maestra1.css" crc="401469234" ref="nosotros"/>
     <file name="sin-t_tulo-4.css" crc="113314456" ref="sin-título-4"/>
     <file name="nomq_sin-t_tulo-4.css" crc="341779557" ref="sin-título-4"/>
-    <file name="master_pagina-maestra1---copia.css" crc="3984553187" ref="el-salar-de-uyuni"/>
+    <file name="master_pagina-maestra1---copia.css" crc="3858150000" ref="el-salar-de-uyuni"/>
     <file name="nomq_preview_master_pagina-maestra1---copia.css" crc="300334952" ref="el-salar-de-uyuni"/>
   </folder>
   <folder name="scripts">
@@ -31,7 +31,7 @@
     <file name="touchswipe.js" crc="404375771" ref="nosotros"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3947169570" ref="index"/>
+    <file name="favicon.ico" crc="3947169570" ref="index:el-salar-de-uyuni"/>
     <file name="maqueta-16.png" crc="4168305382" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
     <file name="158-03.png" crc="4075289761" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
     <file name="158-04.png" crc="4125351518" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
@@ -55,16 +55,16 @@
     <file name="sintura.png" crc="129612811" seo="true" ref="nosotros"/>
     <file name="0-10.jpg" crc="4149911103" seo="true" ref="nosotros"/>
     <file name="0-07.jpg" crc="4038764085" seo="true" ref="el-salar-de-uyuni"/>
-    <file name="0-14-crop-u3573.jpg" crc="4073931161" ref="el-salar-de-uyuni"/>
+    <file name="0-14-crop-u3573.jpg" crc="443610332" ref="el-salar-de-uyuni"/>
     <file name="0-08.jpg" crc="443807715" seo="true" ref="el-salar-de-uyuni"/>
     <file name="0-11.jpg" crc="128450407" seo="true" ref="el-salar-de-uyuni"/>
     <file name="u3241-6.png" crc="4099188614" ref="el-salar-de-uyuni"/>
     <file name="0-07377x151.jpg" crc="3859658259" seo="true" ref="el-salar-de-uyuni"/>
     <file name="0-11377x173.jpg" crc="231345690" seo="true" ref="el-salar-de-uyuni"/>
-    <file name="0-08378x175.jpg" crc="4114168745" seo="true" ref="el-salar-de-uyuni"/>
+    <file name="0-08377x175.jpg" crc="3965299998" seo="true" ref="el-salar-de-uyuni"/>
   </folder>
   <file name="index.html" crc="427937306" seo="true" mt="1541747022129" redirect="true"/>
   <file name="nosotros.html" crc="4051385275" seo="true" mt="1541749621276" redirect="true"/>
-  <file name="el-salar-de-uyuni.html" crc="3970997753" seo="true" mt="1541749631441" redirect="true"/>
+  <file name="el-salar-de-uyuni.html" crc="4056606388" seo="true" mt="1541750651468" redirect="true"/>
   <file name="sin-título-4.html" crc="3774673154" seo="true" mt="1541747022129" redirect="true"/>
 </manifest>
