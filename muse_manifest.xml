@@ -1,70 +1,79 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sideralia.com" resolutions="1x" timestamp="1541750656230">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="sideralia.com" resolutions="1x" timestamp="1544211488256">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="113314456" ref="index"/>
-    <file name="master_a-p_g_-maestra.css" crc="428140576" ref="index:sin-título-4"/>
-    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="157901794" ref="index:sin-título-4"/>
-    <file name="nomq_index.css" crc="341779557" ref="index"/>
-    <file name="nosotros.css" crc="3970659337" ref="nosotros"/>
-    <file name="nomq_nosotros.css" crc="228622944" ref="nosotros"/>
-    <file name="el-salar-de-uyuni.css" crc="473979937" ref="el-salar-de-uyuni"/>
-    <file name="nomq_el-salar-de-uyuni.css" crc="4151173983" ref="el-salar-de-uyuni"/>
-    <file name="master_pagina-maestra1.css" crc="384578320" ref="nosotros"/>
-    <file name="nomq_preview_master_pagina-maestra1.css" crc="401469234" ref="nosotros"/>
-    <file name="sin-t_tulo-4.css" crc="113314456" ref="sin-título-4"/>
-    <file name="nomq_sin-t_tulo-4.css" crc="341779557" ref="sin-título-4"/>
-    <file name="master_pagina-maestra1---copia.css" crc="3858150000" ref="el-salar-de-uyuni"/>
-    <file name="nomq_preview_master_pagina-maestra1---copia.css" crc="300334952" ref="el-salar-de-uyuni"/>
+    <file name="index.css" crc="3781175141" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="3918060063" ref="index:sin-título-4"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="453732879" ref="index:sin-título-4"/>
+    <file name="nomq_index.css" crc="3825237570" ref="index"/>
+    <file name="nosotros.css" crc="3796398780" ref="nosotros"/>
+    <file name="nomq_nosotros.css" crc="515788667" ref="nosotros"/>
+    <file name="el-salar-de-uyuni.css" crc="3843720821" ref="el-salar-de-uyuni"/>
+    <file name="nomq_el-salar-de-uyuni.css" crc="229709994" ref="el-salar-de-uyuni"/>
+    <file name="master_pagina-maestra1.css" crc="439281745" ref="nosotros"/>
+    <file name="nomq_preview_master_pagina-maestra1.css" crc="4020363969" ref="nosotros"/>
+    <file name="sin-t_tulo-4.css" crc="3781175141" ref="sin-título-4"/>
+    <file name="nomq_sin-t_tulo-4.css" crc="3825237570" ref="sin-título-4"/>
+    <file name="master_pagina-maestra1---copia.css" crc="4220459336" ref="el-salar-de-uyuni"/>
+    <file name="nomq_preview_master_pagina-maestra1---copia.css" crc="505696716" ref="el-salar-de-uyuni"/>
+    <file name="master_pagina-maestra1---copia---copia.css" crc="28501097" ref="contacto"/>
+    <file name="nomq_preview_master_pagina-maestra1---copia---copia.css" crc="382724219" ref="contacto"/>
+    <file name="contacto.css" crc="279484199" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="3770792928" ref="contacto"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="museutils.js" crc="163421577" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="whatinput.js" crc="86476730" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="museconfig.js" crc="36584860" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="require.js" crc="244322403" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="webpro.js" crc="3848665353" ref="index:nosotros:sin-título-4"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="index:sin-título-4"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="museutils.js" crc="163421577" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="museconfig.js" crc="36584860" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="require.js" crc="244322403" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="webpro.js" crc="3848665353" ref="nosotros:contacto"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="nosotros"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="nosotros"/>
     <file name="touchswipe.js" crc="404375771" ref="nosotros"/>
+    <file name="form_check.php" crc="158155501" ref="contacto"/>
+    <file name="form_throttle.php" crc="3992970984" ref="contacto"/>
+    <file name="form_process.php" crc="4078697226" ref="contacto"/>
+    <file name="form-u4846.php" crc="3789046470" ref="contacto"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3947169570" ref="index:el-salar-de-uyuni"/>
-    <file name="maqueta-16.png" crc="4168305382" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="158-03.png" crc="4075289761" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="158-04.png" crc="4125351518" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="158-05.png" crc="73493747" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="158-02.png" crc="52844347" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="u755-6.png" crc="4099188614" ref="index:sin-título-4"/>
-    <file name="blank.gif" crc="4208392903" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="menu-02.png" crc="426072575" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4"/>
-    <file name="logo final sideralia-01.png" crc="3837931641" seo="true" ref="index:sin-título-4"/>
-    <file name="logo final sideralia-01291x285.png" crc="321725301" seo="true" ref="index"/>
+    <file name="favicon.ico" crc="3947169570" ref="index:sin-título-4"/>
+    <file name="maqueta-16.png" crc="4168305382" seo="true" ref="index:sin-título-4"/>
+    <file name="158-03.png" crc="4075289761" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="158-04.png" crc="4125351518" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="158-05.png" crc="73493747" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="158-02.png" crc="52844347" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="u755-6.png" crc="510344470" ref="index:sin-título-4"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="menu-02.png" crc="426072575" seo="true" ref="index:nosotros:el-salar-de-uyuni:sin-título-4:contacto"/>
+    <file name="logo final sideralia-01.png" crc="4230034658" seo="true" ref="index:sin-título-4"/>
     <file name="0-02.jpg" crc="4236803319" seo="true" ref="nosotros"/>
     <file name="0-03.jpg" crc="4283915507" seo="true" ref="nosotros"/>
     <file name="0-04.jpg" crc="53696954" seo="true" ref="nosotros"/>
     <file name="0-05.jpg" crc="526413263" seo="true" ref="nosotros"/>
     <file name="0-06.jpg" crc="511465991" seo="true" ref="nosotros"/>
     <file name="loading.gif" crc="3815509949" ref="nosotros"/>
-    <file name="u2174-6.png" crc="4099188614" ref="nosotros"/>
-    <file name="salar.png" crc="4260818073" seo="true" ref="nosotros"/>
-    <file name="copacabana.png" crc="3800580780" seo="true" ref="nosotros"/>
-    <file name="samaipata.png" crc="88978021" seo="true" ref="nosotros"/>
-    <file name="sintura.png" crc="129612811" seo="true" ref="nosotros"/>
-    <file name="0-10.jpg" crc="4149911103" seo="true" ref="nosotros"/>
-    <file name="0-07.jpg" crc="4038764085" seo="true" ref="el-salar-de-uyuni"/>
+    <file name="0-10.jpg" crc="4149911103" seo="true" ref="nosotros:index:sin-título-4"/>
     <file name="0-14-crop-u3573.jpg" crc="443610332" ref="el-salar-de-uyuni"/>
-    <file name="0-08.jpg" crc="443807715" seo="true" ref="el-salar-de-uyuni"/>
-    <file name="0-11.jpg" crc="128450407" seo="true" ref="el-salar-de-uyuni"/>
+    <file name="0-08.jpg" crc="4059395668" seo="true" ref="el-salar-de-uyuni"/>
+    <file name="0-11.jpg" crc="4228913339" seo="true" ref="el-salar-de-uyuni"/>
     <file name="u3241-6.png" crc="4099188614" ref="el-salar-de-uyuni"/>
-    <file name="0-07377x151.jpg" crc="3859658259" seo="true" ref="el-salar-de-uyuni"/>
-    <file name="0-11377x173.jpg" crc="231345690" seo="true" ref="el-salar-de-uyuni"/>
-    <file name="0-08377x175.jpg" crc="3965299998" seo="true" ref="el-salar-de-uyuni"/>
+    <file name="0-11377x173.jpg" crc="282807117" seo="true" ref="el-salar-de-uyuni"/>
+    <file name="0-08377x175.jpg" crc="442490600" seo="true" ref="el-salar-de-uyuni"/>
+    <file name="logo final sideralia3-02.png" crc="146801229" seo="true" ref="index:sin-título-4:nosotros:el-salar-de-uyuni:contacto"/>
+    <file name="banner uyuni.png" crc="3955526517" seo="true" ref="index:sin-título-4"/>
+    <file name="bannercopacabana.png" crc="125479949" seo="true" ref="index:sin-título-4"/>
+    <file name="banner samaipata.png" crc="352441084" seo="true" ref="index:sin-título-4"/>
+    <file name="nueva ruta .png" crc="43656104" seo="true" ref="index:sin-título-4"/>
+    <file name="maqueta-162.png" crc="4168305382" seo="true" ref="nosotros:el-salar-de-uyuni:contacto"/>
+    <file name="u4360-6.png" crc="4099188614" ref="nosotros"/>
+    <file name="0-12-crop-u3467.jpg" crc="4168457309" ref="el-salar-de-uyuni"/>
+    <file name="u4655-6.png" crc="4099188614" ref="contacto"/>
   </folder>
-  <file name="index.html" crc="427937306" seo="true" mt="1541747022129" redirect="true"/>
-  <file name="nosotros.html" crc="4051385275" seo="true" mt="1541749621276" redirect="true"/>
-  <file name="el-salar-de-uyuni.html" crc="4056606388" seo="true" mt="1541750651468" redirect="true"/>
-  <file name="sin-título-4.html" crc="3774673154" seo="true" mt="1541747022129" redirect="true"/>
+  <file name="index.html" crc="4009000506" seo="true" mt="1544211485189" redirect="true"/>
+  <file name="nosotros.html" crc="4033687211" seo="true" mt="1544211224689" redirect="true"/>
+  <file name="el-salar-de-uyuni.html" crc="171637814" seo="true" mt="1544211227075" redirect="true"/>
+  <file name="sin-título-4.html" crc="248410153" seo="true" mt="1544211468903" redirect="true"/>
+  <file name="contacto.html" crc="4016822375" seo="true" mt="1544211462779" redirect="true"/>
 </manifest>
